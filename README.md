@@ -1,6 +1,6 @@
 <h3 align="center">Hey👋 What's Up,</h3>
 
-<h1 align="center">I'm Mahi Ronan Markovov </h1>
+<h1 align="center">I'm Mahi Patel </h1>
 <h4 align="center">Currently, I am a 1st-year (2nd semester) student at CodingGita, Swaminarayan University. </h4>
 
 <p align="center">
