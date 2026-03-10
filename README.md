@@ -1,111 +1,117 @@
-<h3 align="center">Hey👋 What's Up,</h3>
-
-<h1 align="center">I'm Mahi Patel </h1>
-<h4 align="center">Currently, I am a 1st-year (2nd semester) student at CodingGita, Swaminarayan University. </h4>
+<h1 align="center">Hi 👋, I'm Mahi Patel</h1>
+<h3 align="center">Building the Future, One Line of Code at a Time</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=38BDF8&center=true&vCenter=true&width=800&lines=Web+Developer;Crafting+Innovative+Solutions;Enthusiast+Programmer;Turning+Logic+into+Impactful+Code" />
-</p>
-
-### <pre margin:20px> 🌐Web Developer  |  C Programmer  |  💻Creative Coder  |  🎮Game Developer  |  🎮Gamer</pre>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/dhruv-ozha-bb378639b/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="ozhadhruv@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://www.youtube.com/@DhruvOzha" target="_blank">
-    <img src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
-  &nbsp;
- <a href="https://x.com/dhruvozha85" target="_blank">
-  <img src="https://img.shields.io/badge/-black?style=for-the-badge&logo=x&logoColor=white" />
-</a>
-
-</p>
-
-<p align="center">
-  🔧 <b>Skills:</b> Web Development &nbsp;|&nbsp;
-   📌<b>Location:</b> Kalol, Gujarat &nbsp;|&nbsp;
-  🎓 <b>Focus:</b> Product Manager in AI
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00F7A7&center=true&vCenter=true&width=435&lines=Web+Developer;C+Programmer;Creative+Coder;Game+Developer;Future+Product+Manager" alt="Typing SVG" />
 </p>
 
 ---
 
-## 📘 About Me
+## 📌 **Quick Overview**
 
-I am a **developer** passionate about building interactive tools and logical applications.  
-I enjoy working close to fundamentals — from **C programming** to **clean HTML/CSS layouts**.
-
-- 🔭 **Current Focus:** Improving programming and development skills  
-- ⚡ **Strength:** Debugging C logic & pixel-perfect CSS  
-- 🎨 **Interests:** Interactive web apps using HTML, CSS & JavaScript , react, python, c++ ... etc. 
-
----
-
-## <h1 align="center">🛠️ My Tech Toolbox</h1>
-
-### <h1 align="center">Languages Known</h1>
-<p align="center">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=blue" />
-</p>
-
-### <h1 align="center">Tools in Backend</h1>
-<p align="center">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
-  <img src="https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-</p>
-
-### <h1 align="center">Languages learn in future</h1>
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" />
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
-  <img src="https://img.shields.io/badge/Crystal-000000?style=for-the-badge&logo=crystal&logoColor=white" />
-
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
-  <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" />
-</p>
+- 🎓 **1st Year Student** at CodingGita, Swaminarayan University (2nd Semester)
+- 💻 **Web Developer | C Programmer | Creative Coder | Game Developer**
+- 🎮 **Gamer by Heart, Developer by Passion**
+- 🌍 Based in **Kalol, Gujarat**
+- 🎯 **Career Focus:** Product Manager in AI
 
 ---
 
-### 🃏 Clone Projects
-*My own clone website projects.*
+## 🚀 **Connect With Me**
 
-- **With:** HTML, CSS  
-- 🔗 [View WebPage](https://clonewebsite-one.vercel.app/)
-
-### 🃏 Portfolio
-*My Own Portfolio.*
-
-- **With:** React, Vite
-- 🔗 [View WebPage](https://dhruvozha-portfolio.vercel.app/)
-
-
----
-
-## 🚀 Let's Build Something Amazing Together!
-
-<p align="center">
-  <a href="ozhadhruv@gmail.com">
-    <img src="https://img.shields.io/badge/Contact_Me-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<p align="left">
+  <a href="https://linkedin.com/in/yourprofile" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/yourusername" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://youtube.com/@yourchannel" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+  </a>
+  <a href="mailto:your.email@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </p>
+
+---
+
+## 👨‍💻 **About Me**
+
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
+I'm a passionate developer who believes in building from the ground up. I love working with fundamentals and creating interactive tools that make a difference.
+
+- 🔭 **Currently working on:** Improving my programming and development skills
+- 💪 **My Superpowers:** Debugging C logic & creating pixel-perfect CSS layouts
+- 🌱 **Learning journey:** Exploring the vast world of web technologies
+- 💡 **What drives me:** Building interactive web apps that users love
+- ⚡ **Fun fact:** I debug code better after a gaming session! 🎮
+
+---
+
+## 🛠️ **My Tech Toolbox**
+
+### **Languages I Speak**
+<p align="left">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
+
+### **Tools & Technologies**
+<p align="left">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white"/>
+  <img src="https://img.shields.io/badge/redis-CC0000.svg?&style=for-the-badge&logo=redis&logoColor=white"/>
+</p>
+
+### **🚀 Future Learning Goals**
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"/>
+</p>
+
+---
+
+## 📊 **GitHub Stats**
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🎯 **Featured Projects**
+
+### [![Clone Projects](https://img.shields.io/badge/🔗-Clone_Projects-2ea44f)](#)
+> **My own clone website projects**
+- Built with HTML, CSS
+- Pixel-perfect recreations
+- [🔗 View Project](#)
+
+### [![Portfolio](https://img.shields.io/badge/🎨-My_Portfolio-ff69b4)](#)
+> **Personal portfolio website**
+- Built with React + Vite
+- Modern, responsive design
+- [🔗 View Project](#)
+
+---
+
+      █▓░░░░░░░░░░░░░░░░░░░    6.2%
