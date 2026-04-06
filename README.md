@@ -40,6 +40,10 @@ I'm a passionate developer who loves building interactive web experiences, solvi
 **⚡ Motto:** *Code. Create. Conquer.*
 
 ---
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Mahi-19-design&label=Profile%20Views&color=38BDF8&style=flat-square" />
+
+---
 
 ## 🛠️ **Tech Stack & Skills**
 
@@ -100,8 +104,7 @@ I'm a passionate developer who loves building interactive web experiences, solvi
 </div>
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mahi-19-design&label=Profile%20Views&color=38BDF8&style=flat-square" />
+
   
   ### ✨ *"Building the future, one line at a time"* ✨
   
