@@ -8,10 +8,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=800&size=42&duration=2000&pause=500&color=38BDF8&center=true&vCenter=true&width=700&height=80&lines=%E2%9C%A6+MAHI+PATEL+%E2%9C%A6;Web+%26+Game+Developer;Future+Product+Manager+%40+AI;C+%7C+C%2B%2B+%7C+React+%7C+Python" alt="Animated Name" />
 </a>
 
-<!-- ANIMATED SNAKE CONTRIBUTION GRID -->
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%">
-
-</div>
 
 ---
 
@@ -98,6 +94,11 @@ I'm a passionate developer who loves building interactive web experiences, solvi
 </div>
 
 ---
+<!-- ANIMATED SNAKE CONTRIBUTION GRID -->
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%">
+
+</div>
+
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=38BDF8&style=flat-square" />
