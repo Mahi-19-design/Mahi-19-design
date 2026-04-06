@@ -86,11 +86,11 @@ I'm a passionate developer who loves building interactive web experiences, solvi
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=react&hide_border=true&background=0D1117&stroke=38BDF8&ring=38BDF8&fire=60A5FA&currStreakLabel=38BDF8" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mahi-19-design&theme=react&hide_border=true&background=0D1117&stroke=38BDF8&ring=38BDF8&fire=60A5FA&currStreakLabel=38BDF8" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical&no-frame=true&no-bg=true&row=2&column=4" width="100%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Mahi-19-design&theme=radical&no-frame=true&no-bg=true&row=2&column=4" width="100%" />
 </div>
 ---
 
@@ -101,7 +101,7 @@ I'm a passionate developer who loves building interactive web experiences, solvi
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=38BDF8&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=Mahi-19-design&label=Profile%20Views&color=38BDF8&style=flat-square" />
   
   ### ✨ *"Building the future, one line at a time"* ✨
   
