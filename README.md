@@ -3,7 +3,7 @@
 <!-- DYNAMIC HEADER WITH WAVES -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=MAHI%20PATEL&fontSize=60&fontAlignY=35&desc=Web%20Developer%20|%20C%20Programmer%20|%20Game%20Developer%20|%20Creative%20Coder&descAlignY=55&animation=twinkling" width="100%"/>
 
-<!-- PREMIUM NAME ANIMATION (first: name animation) -->
+<!-- PREMIUM NAME ANIMATION -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=800&size=42&duration=2000&pause=500&color=38BDF8&center=true&vCenter=true&width=700&height=80&lines=%E2%9C%A6+MAHI+PATEL+%E2%9C%A6;Web+%26+Game+Developer;Future+Product+Manager+%40+AI;C+%7C+C%2B%2B+%7C+React+%7C+Python" alt="Animated Name" />
 </a>
@@ -85,8 +85,8 @@ I'm a passionate developer who loves building interactive web experiences, solvi
 ## 📊 **GitHub Analytics**
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=60A5FA&text_color=CBD5E1&ring_color=38BDF8" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=CBD5E1&langs_count=8" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mahi-19-design&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=60A5FA&text_color=CBD5E1&ring_color=38BDF8" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahi-19-design&layout=compact&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=CBD5E1&langs_count=8" />
 </div>
 
 <div align="center">
@@ -96,17 +96,79 @@ I'm a passionate developer who loves building interactive web experiences, solvi
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Mahi-19-design&theme=radical&no-frame=true&no-bg=true&row=2&column=4" width="100%" />
 </div>
+
+---
+
+## 📄 **Resume**
+
+<div align="center">
+  <table border="0" cellspacing="0" cellpadding="10" style="border-collapse: collapse; background: #0D1117; border-radius: 16px;">
+    <tr>
+      <td align="center" valign="middle">
+        <img src="https://img.icons8.com/fluency/48/resume.png" alt="Resume Icon" width="40"/>
+      </td>
+      <td align="left" valign="middle">
+        <strong style="font-size: 1.2rem;">📄 Want to know more about my journey, education, and experience?</strong><br/>
+        <span style="color: #CBD5E1;">Click the button below to view or download my complete resume.</span>
+      </td>
+      <td align="center" valign="middle">
+        <a href="https://drive.google.com/your-resume-link-here" target="_blank">
+          <img src="https://img.shields.io/badge/📄_VIEW_RESUME-38BDF8?style=for-the-badge&logo=googledrive&logoColor=white" />
+        </a>
+        &nbsp;
+        <a href="https://drive.google.com/your-resume-link-here?download=1" target="_blank">
+          <img src="https://img.shields.io/badge/⬇️_DOWNLOAD-2DD4BF?style=for-the-badge&logo=googledrive&logoColor=white" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<details align="center">
+  <summary style="cursor: pointer; font-size: 1.1rem; color: #38BDF8;">📑 Quick Resume Preview (Click to expand)</summary>
+  <br/>
+  <div align="left" style="background: #0D1117; padding: 20px; border-radius: 16px; border: 1px solid #38BDF8;">
+    
+### 🎓 **Education**
+- **B.Tech in Computer Science (AI/ML)** — *CodingGita, Swaminarayan University* (2025–2029) | CGPA: 8.5/10
+- **Higher Secondary (12th)** — *GSEB Board* | 85%
+- **Secondary School (10th)** — *GSEB Board* | 88%
+
+### 💼 **Projects**
+| Project | Tech Stack | Link |
+|---------|------------|------|
+| **Portfolio Website** | HTML, CSS, JS, React | [Live Demo](https://sparkly-gumdrop-9be60a.netlify.app/) |
+| **Game Development Project** | C++, SFML | [GitHub Repo](#) |
+| **Weather App** | React, OpenWeather API | [Live Demo](#) |
+
+### 🏆 **Achievements & Certifications**
+- 🥇 **CodeChef Starter** — Ranked in top 15% globally
+- 📜 **JavaScript (Basic)** — HackerRank Certified
+- 📜 **Frontend Development** — FreeCodeCamp
+- 🎯 **Participated in Hackathon 2025** — Built a sustainability-focused web app
+
+### 💡 **Soft Skills**
+`Leadership` • `Problem Solving` • `Team Collaboration` • `Time Management` • `Creative Thinking` • `Communication`
+
+### 🌍 **Languages**
+- **English** — Professional Working Proficiency
+- **Hindi** — Native/Bilingual
+- **Gujarati** — Native
+
+  </div>
+</details>
+
+<br/>
+
 ---
 
 <!-- ANIMATED SNAKE CONTRIBUTION GRID -->
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%">
 
-</div>
 ---
 
+### ✨ *"Building the future, one line at a time"* ✨
 
-  
-  ### ✨ *"Building the future, one line at a time"* ✨
-  
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
+
 </div>
