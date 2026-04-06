@@ -10,7 +10,26 @@
 
 
 ---
+---
 
+## 🌐 **Connect With Me**
+
+<div align="center">
+  <a href="https://linkedin.com/in/mahipatel" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/mahipatel" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="mailto:mahi.patel@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://portfolio-mahi.dev" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</div>
+
+---
 ## 📋 **Summary**
 
 > **Mahi Patel** — 1st Year Student at **CodingGita, Swaminarayan University** (2nd Semester)  
@@ -74,26 +93,7 @@ I'm a passionate developer who loves building interactive web experiences, solvi
   <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical&no-frame=true&no-bg=true&row=2&column=4" width="100%" />
 </div>
 
----
 
-## 🌐 **Connect With Me**
-
-<div align="center">
-  <a href="https://linkedin.com/in/mahipatel" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/mahipatel" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="mailto:mahi.patel@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://portfolio-mahi.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-</div>
-
----
 <!-- ANIMATED SNAKE CONTRIBUTION GRID -->
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%">
 
