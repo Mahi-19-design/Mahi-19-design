@@ -24,7 +24,7 @@
   <a href="mahipatel019@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://sparkly-gumdrop-9be60a.netlify.app/" target="_blank">
+  <a href="https://portfolio019-1gm5-zlrk9p6mu-mahi-s-projects-f09ef58d.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </div>
