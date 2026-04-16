@@ -99,35 +99,7 @@ I'm a passionate developer who loves building interactive web experiences, solvi
 
 ---
 
-## 📄 **Resume**
 
-<div align="center">
-  <table border="0" cellspacing="0" cellpadding="10" style="border-collapse: collapse; background: #0D1117; border-radius: 16px;">
-    <tr>
-      <td align="center" valign="middle">
-        <img src="https://img.icons8.com/fluency/48/resume.png" alt="Resume Icon" width="40"/>
-      </td>
-      <td align="left" valign="middle">
-        <strong style="font-size: 1.2rem;">📄 Want to know more about my journey, education, and experience?</strong><br/>
-        <span style="color: #CBD5E1;">Click the button below to view or download my complete resume.</span>
-      </td>
-      <td align="center" valign="middle">
-        <a href="https://drive.google.com/your-resume-link-here" target="_blank">
-          <img src="https://img.shields.io/badge/📄_VIEW_RESUME-38BDF8?style=for-the-badge&logo=googledrive&logoColor=white" />
-        </a>
-        &nbsp;
-        <a href="https://drive.google.com/your-resume-link-here?download=1" target="_blank">
-          <img src="https://img.shields.io/badge/⬇️_DOWNLOAD-2DD4BF?style=for-the-badge&logo=googledrive&logoColor=white" />
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<details align="center">
-  <summary style="cursor: pointer; font-size: 1.1rem; color: #38BDF8;">📑 Quick Resume Preview (Click to expand)</summary>
-  <br/>
-  <div align="left" style="background: #0D1117; padding: 20px; border-radius: 16px; border: 1px solid #38BDF8;">
     
 ### 🎓 **Education**
 - **B.Tech in Computer Science (AI/ML)** — *CodingGita, Swaminarayan University* (2025–2029) | CGPA: 8.5/10
