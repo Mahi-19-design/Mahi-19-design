@@ -109,15 +109,8 @@ I'm a passionate developer who loves building interactive web experiences, solvi
 ### 💼 **Projects**
 | Project | Tech Stack | Link |
 |---------|------------|------|
-| **Portfolio Website** | HTML, CSS, JS, React | [Live Demo](https://sparkly-gumdrop-9be60a.netlify.app/) |
-| **Game Development Project** | C++, SFML | [GitHub Repo](#) |
-| **Weather App** | React, OpenWeather API | [Live Demo](#) |
+| **Portfolio Website** | HTML, CSS, JS, React | [Live Demo](https://portfolio019-1gm5.vercel.app/) |
 
-### 🏆 **Achievements & Certifications**
-- 🥇 **CodeChef Starter** — Ranked in top 15% globally
-- 📜 **JavaScript (Basic)** — HackerRank Certified
-- 📜 **Frontend Development** — FreeCodeCamp
-- 🎯 **Participated in Hackathon 2025** — Built a sustainability-focused web app
 
 ### 💡 **Soft Skills**
 `Leadership` • `Problem Solving` • `Team Collaboration` • `Time Management` • `Creative Thinking` • `Communication`
