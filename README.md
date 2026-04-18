@@ -102,14 +102,14 @@ I'm a passionate developer who loves building interactive web experiences, solvi
 
     
 ### 🎓 **Education**
-- **B.Tech in Computer Science (AI/ML)** — *CodingGita, Swaminarayan University* (2025–2029) | CGPA: 8.5/10
-- **Higher Secondary (12th)** — *GSEB Board* | 85%
-- **Secondary School (10th)** — *GSEB Board* | 88%
+- **B.Tech in Computer Science (AI/ML)** — *CodingGita, Swaminarayan University* (2025–2029) | SGPA: 10/10
+- **Higher Secondary (12th)** — *GSEB Board* | 80%
+- **Secondary School (10th)** — *GSEB Board* | 94.5%
 
 ### 💼 **Projects**
 | Project | Tech Stack | Link |
 |---------|------------|------|
-| **Portfolio Website** | HTML, CSS, JS, React | [Live Demo](https://portfolio019-1gm5.vercel.app/) |
+| **Portfolio Website** | HTML, CSS, JS, React | [Live Demo](https://mahi-patel-portfolio.vercel.app/) |
 
 
 ### 💡 **Soft Skills**
