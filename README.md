@@ -32,8 +32,8 @@
 ---
 ## 📋 **Summary**
 
-> **Mahi Patel** — 1st Year Student at **CodingGita, Swaminarayan University** (2nd Semester)  
-> 📍 Kalol, Gujarat | 🎓 1st Year • 2nd Sem | 💼 Future Product Manager in AI
+> **Mahi Patel** — 2nd Year Student at **CodingGita, Swaminarayan University** (3rd Semester)  
+> 📍 Kalol, Gujarat | 🎓 2nd Year • 3rd Sem | 💼 Future Product Manager in AI
 
 I'm a passionate developer who loves building interactive web experiences, solving logical challenges in C/C++, and creating game mechanics. I believe in code that's both functional and beautiful. Currently sharpening my full-stack skills while dreaming of leading AI product innovations.
 
